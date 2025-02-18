@@ -59,7 +59,7 @@ a {
 }
 
 .plus {
-  width: 300px;
+  width: 275px;
 }
 
 .sub-title {
@@ -84,6 +84,7 @@ a {
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
   border: none;
   cursor: pointer;
+  color: #000;
 }
 .btn img {
   margin-right: 10px;
